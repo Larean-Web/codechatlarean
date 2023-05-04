@@ -28,4 +28,3 @@ lerna-debug.log*
 /instances/*
 !/instances/.gitkeep
 /test/
-/src/env.yml
