@@ -13,6 +13,3 @@ services:
     volumes:
       - /data/instances:/codechat/instances
     command: ['node', './dist/src/main.js']
-
-    networks:
-      - codechat-net
